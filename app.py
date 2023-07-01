@@ -55,12 +55,12 @@ def predict_status(features: np.ndarray, comment_text: str, author_name: str):
         model = pickle.load(f)
 
     # Отрисовываем комментарий пользователя
-    write_comment(
-        Comment(
-            model.predict(scaler.transform(features)).round().astype(int),
-            comment_text, author_name
-        )
-    )
+    #write_comment(
+    #    Comment(
+    #        model.predict(scaler.transform(features)).round().astype(int),
+    #        comment_text, author_name
+    #    )
+    #)
 
 
 def start() -> None:
