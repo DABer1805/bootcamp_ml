@@ -40,7 +40,6 @@ opt-einsum
 packaging
 pandas
 pip
-pickle
 protobuf
 pyarrow
 pyasn1
