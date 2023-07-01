@@ -3,6 +3,7 @@ Jinja2
 Markdown
 MarkupSafe
 Pillow
+Pickle
 Pygments
 Pympler
 Werkzeug
