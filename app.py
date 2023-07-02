@@ -51,6 +51,7 @@ def predict_status(features: np.ndarray, comment_text: str, author_name: str):
     """ Предсказать оценку отзыва и отрисовать комментарий пользователя """
     # Загружаем скейлер и модель
     scaler = joblib.load('scaler.pkl')
+    st.write(dir(pickle))
     # with open('model.pickle', 'rb') as f:
     #     model = pickle.load(f)
 
