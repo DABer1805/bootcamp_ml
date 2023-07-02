@@ -6,11 +6,11 @@
 
 ## Файлы
 
-- `streamlit_app.py`: основной файл с приложением
+- `app.py`: основной файл с приложением
 - `scaler.pkl`: в этом файле хранятся настройки скейлера
-- `train_data.csv` и `train_answers.csv`: матрица объект-признак и вектор целевых перемнных (нужны для обучения модели (тип: логистическая регрессия))
+- `model.pickle`: в этом файле хранится обученная модель
 - `requirements.txt`: все необходимые для запуска модули
-- ``: блокнот с EDA и ML
+- `Berezhnoy_Dmitry_EDA_and_ML.ipynb`: блокнот с EDA и ML
 
 ## Запуск приложения
 
@@ -22,7 +22,7 @@
 $ python -m venv venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
-$ streamlit run streamlit_app.py
+$ streamlit run app.py
 ```
 Необходимо открытьь ссылку http://localhost:8501, чтобы увидеть приложение
 
