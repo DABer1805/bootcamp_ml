@@ -6,9 +6,9 @@
 
 ---
 
-![alt text]()
+![Позитивная оценка](demo_image_1.png)
 
-![alt text]()
+![Негативная оценка](demo_image_2.png)
 
 ---
 
