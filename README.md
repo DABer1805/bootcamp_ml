@@ -19,10 +19,7 @@
 Чтобы запустить приложение из терминала, нужно ввести следующие строчки
 
 ```shell
-$ python -m venv venv
-$ source venv/bin/activate
-$ pip install -r requirements.txt
-$ streamlit run app.py
+streamlit run app.py
 ```
 Необходимо открытьь ссылку http://localhost:8501, чтобы увидеть приложение
 
