@@ -32,6 +32,6 @@ streamlit run app.py
 ```
 Необходимо открыть ссылку http://localhost:8501, чтобы увидеть приложение
 
-## Streamlit Cloud Deployment
+## Streamlit Cloud
 
 Готовое приложение по ссылке: https://mlairlinesreviews.streamlit.app/
