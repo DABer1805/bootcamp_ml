@@ -19,7 +19,7 @@
 - `model.pickle`: в этом файле хранится обученная модель
 - `requirements.txt`: все необходимые для запуска модули
 - `demo_image_1.png и demo_image_2.png`: картинки для README файла
-- `Berezhnoy_Dmitry_EDA_and_ML.ipynb`: блокнот с EDA и ML
+- `Berezhnoy_Dmitry_EDA_and_ML.ipynb`: блокнот с EDA и ML (https://colab.research.google.com/drive/1Sj1VoxqFayVW0UssJGq2b06UK6WpOCYJ?usp=sharing)
 
 ## Запуск приложения
 
